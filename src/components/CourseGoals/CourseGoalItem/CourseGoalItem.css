@@ -1,0 +1,8 @@
+.course-goal__item {
+  background-color: #8b005d;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 26%);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
